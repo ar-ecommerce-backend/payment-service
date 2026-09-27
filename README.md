@@ -1,6 +1,6 @@
 # payment-service
 
-Payment authorization for the [ar-ecommerce-platform](https://github.com/ar-ecommerce-platform).
+Payment authorization for the [ar-ecommerce-backend](https://github.com/ar-ecommerce-backend).
 
 > **Demo stand-in — no real payment provider.** It approves every request except amounts above
 > a configurable ceiling, giving the order flow a deterministic decline path to show.
